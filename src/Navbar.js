@@ -42,16 +42,6 @@ const Navbar = () => {
               </li>
             );
           })}
-
-          {/* <li>
-            <button className='link-btn'>products</button>
-          </li>
-          <li>
-            <button className='link-btn'>developers</button>
-          </li>
-          <li>
-            <button className='link-btn'>company</button>
-          </li> */}
         </ul>
         <button className='btn signin-btn'>Sign in</button>
       </div>
