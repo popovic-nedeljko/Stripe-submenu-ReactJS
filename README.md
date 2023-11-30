@@ -9,3 +9,8 @@ A mockup React-based web application designed to mimic the functionality of the 
 Goal of this project is the submenu funcionality.
 
 The app uses React components like Navbar, Hero, Sidebar, and Submenu for a user-friendly interface. AppContext and AppProvider handle data; AppProvider creates a context holding app state and update methods. useGlobalContext accesses state and methods. Data is stored in data.js as an array of objects with submenu links, imported with import statements. useState and useEffect hooks handle state and lifecycle events.
+
+## NOTE*** 
+node version: 16.15.0
+
+npm version: 8.5.5
